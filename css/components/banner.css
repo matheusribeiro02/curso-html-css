@@ -1,10 +1,10 @@
 .banner {
     /* background-image: url(../../assets/img/photo.png); */
-    background-color: #000;
+    background-color: #1a0d19;
     height: 800px;
     background-repeat: no-repeat;
     background-size: 100%;
-    border-bottom: 10px solid #fff;
+    border-bottom: 10px solid #7C5E99;
     padding-top: 115px;
     padding-left: 90px;
 }
@@ -22,4 +22,8 @@
 .banner .navigation {
     display: flex;
     justify-content: space-around;
+}
+
+.button.-bsFirst {
+    box-shadow: 5px 5px 4px #fff;
 }
