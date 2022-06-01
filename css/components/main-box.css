@@ -1,5 +1,6 @@
 .main-box {
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
     background-color: #3A4042;
     box-shadow: 10px 10px 0 #000;
     text-align: center;
