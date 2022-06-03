@@ -18,7 +18,7 @@
 }
 
 .button-arrow.-left::before {
-    transform: rotate(180deg) translateX(12px);
+    transform: rotate(180deg) translateX(5px);
 }
 
 .button-arrow .content {
